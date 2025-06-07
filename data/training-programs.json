@@ -1,0 +1,77 @@
+{
+  "introduction": {
+    "title": "Introduction to Q-Pulse",
+    "badge": "Q-Pulse",
+    "level": "Beginner",
+    "description": "Perfect for new users, this course covers the fundamentals of Q-Pulse software, basic navigation, and essential features for quality management.",
+    "duration": "1 Day",
+    "maxParticipants": 12,
+    "schedule": [
+      {
+        "month": "MARCH",
+        "date": "10th",
+        "location": "Nairobi"
+      },
+      {
+        "month": "JUNE",
+        "date": "8th",
+        "location": "Mombasa"
+      },
+      {
+        "month": "SEPTEMBER",
+        "date": "7th",
+        "location": "Nairobi"
+      }
+    ]
+  },
+  "administration": {
+    "title": "Q-Pulse Administration",
+    "badge": "Q-Pulse",
+    "level": "Intermediate",
+    "description": "Advanced training for system administrators covering user management, system configuration, workflow setup, and advanced reporting features.",
+    "duration": "2 Days",
+    "maxParticipants": 10,
+    "schedule": [
+      {
+        "month": "MARCH",
+        "date": "10-11th",
+        "location": "Nairobi"
+      },
+      {
+        "month": "JUNE",
+        "date": "9-10th",
+        "location": "Mombasa"
+      },
+      {
+        "month": "SEPTEMBER",
+        "date": "8-9th",
+        "location": "Nairobi"
+      }
+    ]
+  },
+  "advanced": {
+    "title": "Q-Pulse Advanced Training",
+    "badge": "Q-Pulse",
+    "level": "Advanced",
+    "description": "Specialized training for experienced users focusing on advanced features, customization, integration capabilities, and optimization techniques.",
+    "duration": "2 Days",
+    "maxParticipants": 8,
+    "schedule": [
+      {
+        "month": "MARCH",
+        "date": "12-13th",
+        "location": "Nairobi"
+      },
+      {
+        "month": "JUNE",
+        "date": "11-12th",
+        "location": "Mombasa"
+      },
+      {
+        "month": "SEPTEMBER",
+        "date": "10-11th",
+        "location": "Nairobi"
+      }
+    ]
+  }
+}

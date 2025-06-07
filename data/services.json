@@ -1,0 +1,26 @@
+{
+  "managementSystems": {
+    "title": "Management Systems",
+    "description": "Implementation and maintenance of ISO standards and other management systems to improve your business processes.",
+    "icon": "Layers",
+    "link": "/management-systems"
+  },
+  "systemSoftware": {
+    "title": "System Software",
+    "description": "Specialized software solutions including Q-Pulse to streamline your quality management and compliance processes.",
+    "icon": "Code",
+    "link": "/system-software"
+  },
+  "training": {
+    "title": "Training",
+    "description": "Comprehensive training programs including Q-Pulse training to ensure your team has the skills needed for success.",
+    "icon": "GraduationCap",
+    "link": "/training"
+  },
+  "outsourcing": {
+    "title": "Outsourcing",
+    "description": "Expert outsourcing services to help you manage your quality systems and processes efficiently.",
+    "icon": "Users",
+    "link": "/outsourcing"
+  }
+}

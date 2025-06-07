@@ -1,0 +1,41 @@
+{
+  "companyName": "Intex Management Services",
+  "tagline": "Your Partner in Systems",
+  "contact": {
+    "phone": "+254 20 273 8097",
+    "email": "info@intexms.com",
+    "address": "Nairobi, Kenya"
+  },
+  "socialMedia": {
+    "linkedin": "https://www.linkedin.com/company/intexms",
+    "twitter": "https://twitter.com/intexms",
+    "facebook": "https://facebook.com/intexms"
+  },
+  "colors": {
+    "primary": "#1e40af",
+    "secondary": "#1e3a8a",
+    "accent": "#ef4444"
+  },
+  "navigation": {
+    "main": [
+      { "name": "Home", "path": "/" },
+      { "name": "Management Systems", "path": "/management-systems" },
+      { "name": "System Software", "path": "/system-software" },
+      { "name": "Training", "path": "/training" },
+      { "name": "Outsourcing", "path": "/outsourcing" },
+      { "name": "Contact", "path": "/contact" }
+    ],
+    "top": [
+      { "name": "About Us", "path": "/about" },
+      { "name": "Clients", "path": "/clients" },
+      { "name": "News", "path": "/news" },
+      { "name": "FAQs", "path": "/faqs" }
+    ]
+  },
+  "relatedLinks": [
+    { "name": "Ideagen Gael", "url": "https://www.ideagen.com" },
+    { "name": "Mind Genius", "url": "https://www.mindgenius.com" },
+    { "name": "Quality America", "url": "https://www.qualityamerica.com" },
+    { "name": "Chartered Quality Institute", "url": "https://www.quality.org" }
+  ]
+}
