@@ -36,7 +36,7 @@ export default function HeroSection({
                   </Button>
                 )}
                 {secondaryButtonText && secondaryButtonLink && (
-                  <Button variant="outline" className="text-white border-white hover:bg-blue-800" asChild>
+                  <Button variant="outline" className="text-black border-white hover:bg-blue-800" asChild>
                     <Link href={secondaryButtonLink}>{secondaryButtonText}</Link>
                   </Button>
                 )}
